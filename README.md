@@ -32,7 +32,7 @@
 <a href="https://www.kaggle.com/arunsinghnepali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Arun Singh Nepali" height="30" width="40" /></a>
 <a href="https://www.facebook.com/arunsingh.nepali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arun singh nepali" height="30" width="40" /></a>
 <a href="https://instagram.com/__wash__your__hands__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__wash__your__hands__" height="30" width="40" /></a>
-<a href="/https://mytechinfo1.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mytechinfo1.wordpress.com/" height="30" width="40" /></a>
+<a href="https://mytechinfo1.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mytechinfo1.wordpress.com/" height="30" width="40" /></a>
 </p>
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
