@@ -1,6 +1,5 @@
 
-![MasterHead]((https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif))
-)
+![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif)]
 <h1 align="center">Hi 👋, I'm Arun Singh Nepali(Your very own😉)</h1>
 <h3 align="center">A confident and highly organized tech enthusiast, entrepreneur and a student of computer engineering currently exploring different field of technology and computing.</h3><br><br>
 <img align="right" alt="Coding" width="300" src="https://instagram.fktm14-1.fna.fbcdn.net/v/t51.2885-19/258035979_723054581987729_8395816863074444653_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fktm14-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=uJykHw1c2ScAX-of5dy&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDcPFG7ngQt3kXmIzR9Ay-9KafnQakqZ-IKV2bICzfQ8A&oe=64F2C76B&_nc_sid=8b3546">
