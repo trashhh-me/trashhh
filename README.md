@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <li>
-  <ul><b><a href="https://mytechinfo1.wordpress.com/2022/05/10/intersection-of-mathematics-and-computing-the-birth-of-computer-science/">Intersection of Computer Science and Mathematics: The Birth of Computer Science</a></b></ul>
+  <ul><a href="https://mytechinfo1.wordpress.com/2022/05/10/intersection-of-mathematics-and-computing-the-birth-of-computer-science/">Intersection of Computer Science and Mathematics: The Birth of Computer Science</a></ul>
 <!-- BLOG-POST-LIST:END -->
 </li>
 <br><br>
