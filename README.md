@@ -1,5 +1,5 @@
 
-![MasterHead](![image](https://github.com/trashhh-me/trashhh-me/assets/79440882/d0de52f8-3dc5-43ae-8538-6dbc25ae4ca6)
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/afbefb6e-a4d3-447e-bf7a-10d0fe1b8087/db9bmis-7b3ec247-e33f-4bf2-bbf6-1b94ab0e7777.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FmYmVmYjZlLWE0ZDMtNDQ3ZS1iZjdhLTEwZDBmZTFiODA4N1wvZGI5Ym1pcy03YjNlYzI0Ny1lMzNmLTRiZjItYmJmNi0xYjk0YWIwZTc3NzcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.thIKVm8noN3DBeGIleGfRJjFU45Gkdgsly5g056LVko)
 )
 <h1 align="center">Hi 👋, I'm Arun Singh Nepali(Your very own😉)</h1>
 <h3 align="center">A confident and highly organized tech enthusiast, entrepreneur and a student of computer engineering currently exploring different field of technology and computing.</h3><br><br>
