@@ -1,5 +1,5 @@
 
-!MasterHead(https://runtimeerrorsblog.files.wordpress.com/2018/05/stay-hungry-stay-foolish-facebook-cover-timeline-banner-for-fb.jpg)
+![MasterHead](https://runtimeerrorsblog.files.wordpress.com/2018/05/stay-hungry-stay-foolish-facebook-cover-timeline-banner-for-fb.jpg)
 <h1 align="center">Hi 👋, I'm Arun Singh Nepali(Your very own😉)</h1>
 <h3 align="center">A confident and highly organized tech enthusiast, entrepreneur and a student of computer engineering currently exploring different field of technology and computing.</h3>
 <img align="right" alt="Coding" width="300" src="https://instagram.fktm14-1.fna.fbcdn.net/v/t51.2885-19/258035979_723054581987729_8395816863074444653_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fktm14-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=uJykHw1c2ScAX-of5dy&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDcPFG7ngQt3kXmIzR9Ay-9KafnQakqZ-IKV2bICzfQ8A&oe=64F2C76B&_nc_sid=8b3546">
